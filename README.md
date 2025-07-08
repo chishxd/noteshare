@@ -28,7 +28,7 @@
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/<your-username>/noteshare.git
+   git clone https://github.com/chishxd/noteshare.git
    cd noteshare
    ```
 
@@ -85,6 +85,7 @@ We’re building this together!
 * Keep commits clean and well-documented
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for our workflow, branch rules, and PR guidelines.
+
 ---
 
 ## 📄 License
