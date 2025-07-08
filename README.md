@@ -84,6 +84,7 @@ We’re building this together!
 * Fork the repo, create a branch, open a PR
 * Keep commits clean and well-documented
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for our workflow, branch rules, and PR guidelines.
 ---
 
 ## 📄 License
