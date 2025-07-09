@@ -97,8 +97,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for our workflow, branch rules, and PR gu
 ## 🤝 Authors
 
 * **Chish** — [GitHub](https://github.com/chishxd)
-* **Your Teammate’s Name** — [GitHub](https://github.com/theirusername)
-
+* **Vedant Parte** — [GitHub](https://github.com/VedantParte23)
+* **Muinashraf Momin** — [No Github yet]
+* **Rihan Jamadar** — [No Github Yet]
 ---
 
 ## ❤️ Acknowledgements
